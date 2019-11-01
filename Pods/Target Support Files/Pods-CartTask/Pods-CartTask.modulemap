@@ -1,0 +1,6 @@
+framework module Pods_CartTask {
+  umbrella header "Pods-CartTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
